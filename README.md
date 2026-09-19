@@ -1,6 +1,8 @@
 AutoMeta
 ========
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L11VB7JN)
+
 A Semantic Annotation Tool
 
 Last Download : https://github.com/celsowm/AutoMeta/releases/download/v0.4a/AutoMeta_0.4a.rar (Jun 2014)
